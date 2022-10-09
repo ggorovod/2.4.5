@@ -62,7 +62,7 @@ python app.py
 ```
 After launching the **app.py** app in your CLI you will input the following items to get the results (DTI, LTV, qulifying lonas):
 
-![loan prompts](~/OneDrive/Desktop/test/Classes/MODULE_2/2.4.5/2.4.5/image/screenshot.png)
+![loan prompts](./image/screenshot.png)
 
 ---
 
